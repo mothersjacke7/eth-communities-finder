@@ -8,7 +8,7 @@ from rich.console import Console
 os.system('cls' if os.name == 'nt' else 'clear')
 console = Console()
 
-etherscan_api_key = "your_etherscan_api_key"
+etherscan_api_key = "CWG3A9W84UTGQNKUXP63DA614HD8P177XK"
 
 def read_addresses_from_file(file_path):
     with open(file_path, 'r') as file:
