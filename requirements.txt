@@ -1,0 +1,6 @@
+python-louvain
+rich
+community
+networkx
+requests
+matplotlib
