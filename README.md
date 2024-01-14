@@ -22,7 +22,7 @@ pip install -r requirements.txt
 3. **Run the Script:**
 
    ```
-   python ethereum_network_analysis.py
+   python main.py
    ```
 
 Feel free to explore and modify the script based on your specific needs.
